@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.xind.ehotel</groupId>
@@ -6,5 +7,9 @@
   <packaging>pom</packaging>
   <modules>
   	<module>ehotel-web</module>
+  	<module>ehotel-util</module>
+  	<module>ehotel-dao</module>
+    <module>ehotel-service</module>
+    <module>ehotel-api</module>
   </modules>
 </project>
