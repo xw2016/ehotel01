@@ -4,4 +4,7 @@
   <artifactId>ehotel</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>pom</packaging>
+  <modules>
+  	<module>ehotel-web</module>
+  </modules>
 </project>
